@@ -1,0 +1,19 @@
+#wrapper{
+    background-image:url("./assets/paul-volkmer-qVotvbsuM_c-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.button{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.container {
+text-align: center;
+padding-top: 10px;
+color: rgb(92, 203, 255);
+}
+
+#picture {
+width: 65%;
+}
